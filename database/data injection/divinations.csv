@@ -1,0 +1,4 @@
+id,title,description,order,created_at,updated_at
+1,ONE_RUNE_DIVINATION,one_rune_forecast_description,1,2022-03-27 11:20:30+03,2022-03-27 11:20:30+03
+2,TWO_RUNES_DIVINATION,two_rune_forecast_description,2,2022-03-27 11:20:30+03,2022-03-27 11:20:30+03
+3,THREE_RUNES_DIVINATION,three_rune_forecast_description,3,2022-03-27 11:20:30+03,2022-03-27 11:20:30+03
